@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashaik10
-- 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning Salesforce developer
-- 💞️ I’m looking to collaborate on Salesforce client projects
+- 👀 I’m interested in Salesforce.
+- 🌱 I’m currently learning LWC, Javascript, Salesforce Integration etc.
+- 💞️ I’m looking to collaborate on Salesforce projects.
 - 📫 Reach me through moizabdul44@gmail.com
 
 <!---
